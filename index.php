@@ -1,6 +1,6 @@
 <?php
 
-echo "<h1>Best app ever!!";
+echo "<h1>openshift Demo!!";
 
 echo "<br>";
 echo "Something else...";
